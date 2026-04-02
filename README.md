@@ -8,7 +8,7 @@
 ### 🛠️ A Little More About Me
 
 B.Arch from HUST, M.Arch from UC Berkeley, now turning into an AI Explorer.  
-Currently pursuing a second CS master's at Georgia Tech (OMSCS).  
+Currently pursuing a part-time CS master's at Georgia Tech (OMSCS).  
 I want to build things at the intersection of logic and emotion.  
 I enjoy finding elegant technical solutions to everyday problems.  
 
